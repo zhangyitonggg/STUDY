@@ -1,3 +1,4 @@
 transfer.py
 auto.sh
-code/
+./code/
+*.exe

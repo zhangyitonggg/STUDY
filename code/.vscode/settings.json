@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.txt": "bat",
+        "string": "cpp",
+        "*.tcc": "cpp"
+    }
+}
